@@ -1,0 +1,44 @@
+.navigace{
+  margin-left: 10px;
+  font-family: 'Roboto Mono', monospace;
+
+}
+
+.navbar-nav{
+  margin-left: 85%;
+}
+
+.jmeno{
+  font-size: 40px;
+  font-family: 'Signika', sans-serif;
+}
+
+.linky{
+  font-family: 'Signika', sans-serif;
+  font-size: 20px;
+}
+
+.container-fluid{
+  margin-bottom: 1%;
+  background-color: #0081A7;
+}
+
+
+.navbar-brand{
+  font-size: 30px;
+}
+
+img{
+  width: 100%;
+  border-radius: 2%;
+  margin-bottom: 2%;
+}
+
+img:hover{
+  border-radius: 7%;
+}
+
+.row{
+  padding-left: 1.5%;
+  padding-right: 1.5%;
+}
